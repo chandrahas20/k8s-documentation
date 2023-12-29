@@ -1,0 +1,2 @@
+kubeadm join 172.31.36.241:6443 --token yjxtc5.32fs7d6vvxu4xfsj \
+	--discovery-token-ca-cert-hash sha256:8dcee6d28a4de58e09412bb2836c98e35ff2f12bba64f9aa1314637a49a5d633 
